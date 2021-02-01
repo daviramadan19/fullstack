@@ -3,7 +3,7 @@ package seed
 import (
 	"log"
 
-	"github.com/daviramdan19/fullstack/api/models"
+	"github.com/daviramadan19/fullstack/api/models"
 	"github.com/jinzhu/gorm"
 )
 
