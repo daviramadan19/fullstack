@@ -10,12 +10,12 @@ import (
 var users = []models.User{
 	models.User{
 		Nickname: "Steven victor",
-		Email:    "steven@gmail.com",
+		Email:    "davirmd19@gmail.com",
 		Password: "password",
 	},
 	models.User{
 		Nickname: "Martin Luther",
-		Email:    "luther@gmail.com",
+		Email:    "davi@sentuh.id",
 		Password: "password",
 	},
 }
